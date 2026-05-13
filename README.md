@@ -2,7 +2,7 @@
 
 Tell it your dream career — it builds a personalised roadmap with phases, resources, milestones, timeline and salary info. Then ask it anything as a follow-up.
 
-🚀 **[Live Demo →]([https://ai-mentor-xtnygjgygxxsfg2vggdkfv.streamlit.app/])**
+🚀 **[Live Demo →](https://ai-mentor-xtnygjgygxxsfg2vggdkfv.streamlit.app/)**
 
 ---
 
